@@ -1,0 +1,23 @@
+body {
+	background-color: #DDDDDD;
+}
+#contents {
+	margin:auto;
+	box-shadow: 0px 0px 30px #777777;
+	background: #FFFFFF;
+	border-radius: 10px;
+	width:720px;
+	height:480px;
+}
+#instruction {
+	padding-top:20px;
+	text-align:center;
+}
+#skip {
+	margin-top:300px;
+	margin-left:50px;
+}
+#button {
+	margin-left:100%-15px;
+	margin-top:300px;
+}
